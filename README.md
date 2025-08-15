@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a Software Engineering Student / Software Developer from Finland with a burning passion for coding. ❤️‍🔥
+I'm a Software Engineer from Finland with a burning passion for coding. ❤️‍🔥
 
 My experience is mainly from C# and JavaScript/TypeScript web development and some mobile development, but I'm always excited to learn new languages and technologies.
 
